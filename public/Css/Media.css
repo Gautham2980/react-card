@@ -1,0 +1,55 @@
+@media(min-width:320px){
+    .card-col{
+        width: 100%;
+        border: 1px solid black;
+        border-radius: 20px;
+        margin: 10px;
+        line-height: 2;
+        box-shadow: 0 0 10px gray;
+        padding: 20px;
+       
+        
+        /* padding: 20px; */
+     
+        
+    }
+    
+
+}
+
+@media(min-width:660px){
+    .card-col{
+        width: 100%;
+        border: 1px solid black;
+        border-radius: 20px;
+        margin: 10px;
+        /* line-height: 2; */
+        box-shadow: 0 0 10px gray;
+        padding: 20px;
+       
+        
+        /* padding: 20px; */
+     
+        
+    }
+    
+    
+}
+
+@media(min-width:960px){
+    .card-col{
+        width: 30%;
+        border: 1px solid black;
+        border-radius: 20px;
+        margin: 10px;
+        line-height: 2;
+        box-shadow: 0 0 10px gray;
+        padding: 20px;
+       
+        
+        /* padding: 20px; */
+     
+        
+    }
+    
+}

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+.head{
+  color: rgb(115, 156, 175);
+}
+
+p{
+   
+    opacity: 0.7;
+}
+
+i{
+    color: green;
+}
+
+
+
+
+   
